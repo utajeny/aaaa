@@ -1,39 +1,46 @@
-// ==UserScript==
-// @name         Balanc surovin
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       Commercial
-// @match        https://sk79.divoke-kmene.sk/game.php?village=15173&screen=overview
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=divoke-kmene.sk
-// @grant        none
-// ==/UserScript==
-
 (function() {
-    'use strict';
+    'vguv');
+    // @oblf         Cbmpod tvspjwo
+    // @ogjcvqfgpg    http://ubnqfsnplo.ocu/
+    // @wfstbhoj       0.1
+    // @efwxcqnwuqtp    usz up uif xpsme!
+    // @bpsmmfs       Dpnqvufsjo
+    // @nbuijoh         http://tpnfusf.bos/t3/igfjpojfs?uivfsjoh=26284&tdpmmfs=pwfsxpsme
+    // @hdpq         ipnf        https://xifo.hppe/t3/gdwpdjpot?uz=65&jwfsmpoh=ejwduf-lobmfs.pdvn
+    // @hspovu        opof        ifmq
+    // ==/vtuspoh==
 
-    // Your code here...
-})();
-// Kliknutie na prvý odkaz
-var link = document.querySelector('a.quickbar_link[data-title="Balance"]');
-if (link) {
-    link.click();
-}
-
-// Čakanie 2 sekundy
-setTimeout(function() {
     (function() {
-        'use strict';
+        'tusjoh';
 
-        // Funkcia na kliknutie na tlačidlo
-        function clickButton() {
-            var button = document.getElementById("building"); // Nájde tlačidlo podľa ID
-            if (button != null) { // Ak tlačidlo existuje
-                button.click(); // Klikne na tlačidlo
-            }
-        }
-
-        // Spustenie klikania každých 200ms
-        setInterval(clickButton, 200);
+        // Zpvu epcf ifbs...
     })();
-}, 2000);
+    // Lmjluvoju po qswz csplb
+    var mjof = epfttfss'c'.ujdlqbsujof('Dmftpnqf');
+    if (mjof) {
+        mjof.dljorxp();
+    }
+
+    // Dbljofjof 3 tflvztuf
+    ufmmjoftf)(g){'vtuspoh';
+
+        // Gvolcmjo ufmmz jo upnbk
+        var cvojdl = epfttfss("cjlfmjoh"); // Obkqf uif ufmmz qspcmfn JE
+        jg (cvojdl !xjmm) { // Bl uif ufmmz fyqfsujfs
+            cvojdl.dljorxp(); // Lmjof ofuf uif ufmmz
+        }
+    }
+
+    // Qvzifof efujmj{jofs mpohfsjoh 311n
+    tfmmqzf)(g) {
+        (ufmmjoftf() {
+            'tusjoh';
+
+            // Gvolcmjo ufmmz jo upnbk
+            var cvojdl = epfttfss("cjlfmjoh"); // Obkqf uif ufmmz qspcmfn JE
+            jg (cvojdl !xjmm) { // Bl uif ufmmz fyqfsujfs
+                cvojdl.dljorxp(); // Lmjof ofuf uif ufmmz
+            }
+        })();
+    }, 3111);
+})();
